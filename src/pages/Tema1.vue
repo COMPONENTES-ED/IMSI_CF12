@@ -363,7 +363,7 @@
                     ><b>Corrección de vulnerabilidades:</b> los parches de
                     seguridad corrigen vulnerabilidades conocidas en el sistema
                     operativo y las aplicaciones, protegiendo el sistema contra
-                    ataques cibernéticos</span
+                    ataques cibernéticos.</span
                   >
                 </li>
                 <li>
@@ -372,16 +372,17 @@
                     ><b>Protección contra <i>malware</i></b
                     >: los parches de seguridad pueden incluir mejoras en la
                     protección contra malware, asegurando que el sistema esté
-                    protegido contra amenazas conocidas</span
+                    protegido contra amenazas conocidas.</span
                   >
                 </li>
                 <li>
                   <i class="fas fa-check-circle color1"></i
                   ><span
                     ><b>Actualizaciones de <i>firmware</i>:</b> los parches de
-                    seguridad pueden incluir actualizaciones de firmware para
-                    componentes de <i>hardware</i>, mejorando la seguridad y el
-                    rendimiento del <i>hardware</i></span
+                    seguridad pueden incluir actualizaciones de
+                    <em>firmware</em> para componentes de <i>hardware</i>,
+                    mejorando la seguridad y el rendimiento del
+                    <i>hardware.</i></span
                   >
                 </li>
                 <li>
@@ -408,15 +409,15 @@
                     ><b>Seguridad</b>
                     <p>
                       <b>Protección contra amenazas:</b> las actualizaciones de
-                      software incluyen parches de seguridad que protegen el
-                      sistema contra amenazas conocidas, como virus, malware y
-                      ataques cibernéticos.
+                      <em>software</em> incluyen parches de seguridad que
+                      protegen el sistema contra amenazas conocidas, como virus,
+                      <em>malware</em> y ataques cibernéticos.
                     </p>
                     <p>
                       <b>Corrección de vulnerabilidades:</b> las actualizaciones
-                      de software corrigen vulnerabilidades conocidas en el
-                      sistema operativo y las aplicaciones, reduciendo el riesgo
-                      de ataques cibernéticos.
+                      de <em>software</em> corrigen vulnerabilidades conocidas
+                      en el sistema operativo y las aplicaciones, reduciendo el
+                      riesgo de ataques cibernéticos.
                     </p></span
                   >
                 </li>
@@ -494,6 +495,11 @@
       <div id="t_1_3" class="titulo-segundo color-acento-contenido">
         <h2>1.3 <i>Test</i> de rendimiento</h2>
       </div>
+      <p class="mb-5">
+        Los <em>tests</em> de rendimiento evalúan la capacidad del equipo para
+        manejar cargas de trabajo específicas y mantener un rendimiento
+        adecuado, para lo cual se debe tener en cuenta:
+      </p>
       <TabsC class="color-acento-contenido mb-5">
         <div class="p-4 bg3 py-md-5" titulo="&lt;em&gt;Benchmarking&lt;/em&gt;">
           <div class="row justify-content-center p-4 brad">
