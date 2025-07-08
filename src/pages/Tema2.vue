@@ -522,7 +522,7 @@
                     <li>
                       <i class="fas fa-check-circle color1"></i
                       ><span
-                        ><b>Actualizaciones de seguridad:</b> instalación de
+                        ><b>Corrección de errores:</b> instalación de
                         actualizaciones de seguridad que corrigen
                         vulnerabilidades conocidas en las aplicaciones.</span
                       >
