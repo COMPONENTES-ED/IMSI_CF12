@@ -145,7 +145,7 @@
                   ><span
                     ><b>Manuales de usuario:</b> verificación de que los
                     manuales de usuario estén completos y sean adecuados para el
-                    equipo y el software instalado.</span
+                    equipo y el <em>software</em> instalado.</span
                   >
                 </li>
                 <li>
@@ -160,8 +160,8 @@
                   <i class="fas fa-check-circle color1"></i
                   ><span
                     ><b>Licencias de <i>software</i>:</b> verificación de que
-                    todas las licencias de software estén incluidas y sean
-                    válidas.</span
+                    todas las licencias de <em>software</em> estén incluidas y
+                    sean válidas.</span
                   >
                 </li>
               </ul>
@@ -470,10 +470,11 @@
             documentos de soporte que permitan al usuario comprender el
             funcionamiento básico y las configuraciones personalizadas del
             dispositivo. En este contexto, es importante que se detallen las
-            configuraciones del hardware y software que el equipo incluye al
-            momento de la entrega. De igual manera, la documentación debe cubrir
-            aspectos como el mantenimiento preventivo, las condiciones de
-            servicio y las pruebas realizadas antes de la entrega.
+            configuraciones del hardware y <em>software</em> que el equipo
+            incluye al momento de la entrega. De igual manera, la documentación
+            debe cubrir aspectos como el mantenimiento preventivo, las
+            condiciones de servicio y las pruebas realizadas antes de la
+            entrega.
           </p>
         </div>
         <div class="col-lg-auto pt-lg-0 pt-md-4">

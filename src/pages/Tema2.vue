@@ -609,8 +609,9 @@
                   <h5 class="mb-4">Verificación de compatibilidad</h5>
                   <p>
                     Asegurarse de que todas las actualizaciones sean compatibles
-                    entre sí y con el hardware del equipo es necesario para
-                    garantizar que no haya conflictos entre las actualizaciones.
+                    entre sí y con el <em>hardware</em> del equipo es necesario
+                    para garantizar que no haya conflictos entre las
+                    actualizaciones.
                   </p>
                   <ul class="lista-ul fa-ul ps-4">
                     <li>
@@ -619,7 +620,7 @@
                         ><b>Pruebas de compatibilidad:</b> realización de
                         pruebas de compatibilidad para asegurar que las
                         actualizaciones no causen conflictos con el
-                        <i>hardware</i> o el <i>software</i> del equipo</span
+                        <i>hardware</i> o el <i>software</i> del equipo.</span
                       >
                     </li>
                     <li>

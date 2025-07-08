@@ -22,14 +22,14 @@
           <div class="titulo-segundo">
             <h2>
               Prueba de conocimientos sobre Configuración y entrega de equipos
-              de cómputo.
+              de cómputo: protocolos y pruebas
             </h2>
           </div>
           <p class="mb-4">
             Validar el conocimiento adquirido sobre sobre Configuración y
-            entrega de equipos de cómputo. Esto se trabaja a partir de un
-            conjunto de preguntas, con el propósito de buscar una dinámica de
-            razonamiento ágil sobre opciones cerradas y reafirmar un
+            entrega de equipos de cómputo: protocolos y pruebas. Esto se trabaja
+            a partir de un conjunto de preguntas, con el propósito de buscar una
+            dinámica de razonamiento ágil sobre opciones cerradas y reafirmar un
             conocimiento declarado dentro del componente.
           </p>
           <div class="tarjeta actividad p-3">

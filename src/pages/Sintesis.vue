@@ -67,7 +67,10 @@
       <div class="row justify-content-center">
         <div class="col-lg-10 mb-5">
           <figure>
-            <img src="@/assets/curso/temas/sintesis.svg" alt="alt" />
+            <img
+              src="@/assets/curso/temas/sintesis.svg"
+              alt="La síntesis menciona los principales temas tratados sobre la configuración y entrega de equipos de cómputo como son la validación de temas, la configuración final, los protocolos de entrega y el soporte post-entregas y algunos subtemas que los integran."
+            />
           </figure>
         </div>
         <div class="col-auto">
