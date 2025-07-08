@@ -302,7 +302,7 @@
               <p>
                 La verificación de que los datos puedan ser restaurados
                 correctamente en caso de fallo del sistema es considerable para
-                garantizar la integridad de los <i>backups</i>.
+                garantizar la integridad de los <em>backups.</em>
               </p>
               <ul class="lista-ul fa-ul ps-4">
                 <li>
@@ -311,15 +311,6 @@
                     ><b>Pruebas de restauración completa:</b> realización de
                     pruebas de restauración completa para asegurar que todos los
                     datos puedan ser recuperados.</span
-                  >
-                </li>
-                <li>
-                  <i class="fas fa-check-circle color1"></i
-                  ><span
-                    ><b>Servicios en la nube:</b> consideración de servicios de
-                    almacenamiento en la nube como Google Drive, Dropbox,
-                    Microsoft OneDrive, o Amazon S3 para
-                    <i>backups</i> remotos.</span
                   >
                 </li>
                 <li>
@@ -377,11 +368,11 @@
               </ul>
             </div>
             <div titulo="Políticas de retención de datos">
-              <P
-                >El establecimiento de políticas de retención de datos es
+              <p>
+                El establecimiento de políticas de retención de datos es
                 importante para determinar cuánto tiempo se conservarán los
                 <i>backups</i> y cuándo se eliminarán los datos antiguos.
-              </P>
+              </p>
               <ul class="lista-ul fa-ul ps-4">
                 <li>
                   <i class="fas fa-check-circle color1"></i
@@ -502,10 +493,10 @@
                     <li>
                       <i class="fas fa-check-circle color1"></i
                       ><span
-                        ><b>Controladores de firmware:</b> instalación de
-                        actualizaciones de <i>firmware</i> para componentes de
-                        <i>hardware</i>, mejorando la seguridad y el rendimiento
-                        del <i>hardware</i>.</span
+                        ><b>Controladores de <em>firmware:</em></b> instalación
+                        de actualizaciones de <i>firmware</i> para componentes
+                        de <i>hardware</i>, mejorando la seguridad y el
+                        rendimiento del <i>hardware</i>.</span
                       >
                     </li>
                   </ul>
@@ -520,7 +511,7 @@
               </div>
               <div class="row justify-content-center">
                 <div class="col-lg-6 my-2">
-                  <h5 class="mb-4">Actualización del sistema operativo:</h5>
+                  <h5 class="mb-4">Actualización de aplicaciones:</h5>
                   <p>
                     Asegurarse de que el sistema operativo esté actualizado a su
                     última versión es para garantizar la seguridad y el
@@ -642,7 +633,7 @@
                     <li>
                       <i class="fas fa-check-circle color1"></i
                       ><span
-                        ><b>Pruebas de rendimiento:</b> Realización de pruebas
+                        ><b>Pruebas de rendimiento:</b> realización de pruebas
                         de rendimiento para asegurar que las actualizaciones no
                         afecten negativamente el rendimiento del equipo.</span
                       >

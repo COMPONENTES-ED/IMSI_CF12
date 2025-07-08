@@ -208,7 +208,7 @@
         </div>
         <div class="col-lg-9 my-lg-0 my-3">
           <AccordionRED tipo="a" clase-tarjeta="tarjeta bg3">
-            <div titulo="Instalación de #[i software] ">
+            <div titulo="Instalación de <em>software</em> ">
               <p>
                 Asegurarse de que todos los programas necesarios estén
                 instalados y configurados adecuadamente, atendiendo a la
@@ -251,7 +251,7 @@
                 </li>
               </ul>
             </div>
-            <div titulo="Actualizaciones de #[i software]">
+            <div titulo="Actualizaciones de <em> software</em>">
               <p>
                 Comprobar de que todos los programas estén actualizados a sus
                 últimas versiones Las actualizaciones de <i>software</i> no solo
@@ -371,8 +371,8 @@
                   ><span
                     ><b>Protección contra <i>malware</i></b
                     >: los parches de seguridad pueden incluir mejoras en la
-                    protección contra malware, asegurando que el sistema esté
-                    protegido contra amenazas conocidas.</span
+                    protección contra <em>malware</em>, asegurando que el
+                    sistema esté protegido contra amenazas conocidas.</span
                   >
                 </li>
                 <li>
@@ -396,7 +396,9 @@
                 </li>
               </ul>
             </div>
-            <div titulo="Importancia de las actualizaciones de #[i software] ">
+            <div
+              titulo="Importancia de las actualizaciones de <em>software</em> "
+            >
               <p>
                 Las actualizaciones de <i>software</i> se deben hacer por varias
                 razones ya que protegen aspectos como son la seguridad,
@@ -520,22 +522,23 @@
                 <li>
                   <i class="fas fa-check-circle color1"></i
                   ><span
-                    >Pruebas de rendimiento de CPU: evaluación del rendimiento
-                    de la CPU en tareas específicas.</span
+                    ><b>Pruebas de rendimiento de CPU:</b> evaluación del
+                    rendimiento de la CPU en tareas específicas.</span
                   >
                 </li>
                 <li>
                   <i class="fas fa-check-circle color1"></i
                   ><span
-                    >Pruebas de rendimiento de GPU: evaluación del rendimiento
-                    de la tarjeta gráfica en tareas gráficas intensivas.</span
+                    ><b>Pruebas de rendimiento de GPU:</b> evaluación del
+                    rendimiento de la tarjeta gráfica en tareas gráficas
+                    intensivas.</span
                   >
                 </li>
                 <li>
                   <i class="fas fa-check-circle color1"></i
                   ><span
-                    >Pruebas de rendimiento de almacenamiento: evaluación del
-                    rendimiento del disco duro o SSD en tareas de lectura y
+                    ><b>Pruebas de rendimiento de almacenamiento:</b> evaluación
+                    del rendimiento del disco duro o SSD en tareas de lectura y
                     escritura.</span
                   >
                 </li>
@@ -561,14 +564,14 @@
                 <li>
                   <i class="fas fa-check-circle color1"></i
                   ><span
-                    >Pruebas de carga de red: evaluación del rendimiento del
-                    equipo bajo diferentes niveles de tráfico de red.</span
+                    ><b>Pruebas de carga de red:</b> evaluación del rendimiento
+                    del equipo bajo diferentes niveles de tráfico de red.</span
                   >
                 </li>
                 <li>
                   <i class="fas fa-check-circle color1"></i
                   ><span
-                    >Pruebas de carga de aplicaciones: evaluación del
+                    ><b>Pruebas de carga de aplicaciones:</b> evaluación del
                     rendimiento del equipo bajo diferentes niveles de uso de
                     aplicaciones.</span
                   >
@@ -576,8 +579,8 @@
                 <li>
                   <i class="fas fa-check-circle color1"></i
                   ><span
-                    >Pruebas de carga de usuarios: evaluación del rendimiento
-                    del equipo bajo diferentes niveles de usuarios
+                    ><b>Pruebas de carga de usuarios:</b> evaluación del
+                    rendimiento del equipo bajo diferentes niveles de usuarios
                     concurrentes.</span
                   >
                 </li>
@@ -603,7 +606,7 @@
                 <li>
                   <i class="fas fa-check-circle color1"></i
                   ><span
-                    >Pruebas de estabilidad a largo plazo: evaluación del
+                    ><b>Pruebas de estabilidad a largo plazo:</b> evaluación del
                     rendimiento del equipo durante períodos prolongados de uso
                     continuo.</span
                   >
@@ -611,7 +614,7 @@
                 <li>
                   <i class="fas fa-check-circle color1"></i
                   ><span
-                    >Pruebas de estabilidad bajo carga: evaluación del
+                    ><b>Pruebas de estabilidad bajo carga:</b> evaluación del
                     rendimiento del equipo bajo carga continua durante períodos
                     prolongados.</span
                   >
@@ -619,9 +622,9 @@
                 <li>
                   <i class="fas fa-check-circle color1"></i
                   ><span
-                    >Pruebas de estabilidad de <i>software</i>: evaluación de la
-                    estabilidad del <i>software</i> instalado durante períodos
-                    prolongados de uso.</span
+                    ><b>Pruebas de estabilidad de <i>software</i>:</b>
+                    evaluación de la estabilidad del <i>software</i> instalado
+                    durante períodos prolongados de uso.</span
                   >
                 </li>
               </ul>

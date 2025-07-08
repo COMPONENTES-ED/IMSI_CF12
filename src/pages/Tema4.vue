@@ -408,14 +408,14 @@
                 La validación de sistemas es un proceso integral que asegura el
                 correcto funcionamiento de los equipos de cómputo antes de su
                 entrega. Este proceso incluye pruebas de <i>hardware</i>,
-                verificación de <i>software</i> y tests de rendimiento. Las
-                pruebas de <i>hardware</i> garantizan que todos los componentes
-                físicos funcionen correctamente, mientras que la verificación de
-                <i>software</i> asegura que el sistema operativo y las
-                aplicaciones estén instaladas y configuradas adecuadamente. Los
-                tests de rendimiento evalúan la capacidad del equipo para
-                manejar cargas de trabajo específicas, asegurando que cumpla con
-                las expectativas del usuario.
+                verificación de <i>software</i> y <em>tests</em> de rendimiento.
+                Las pruebas de <i>hardware</i> garantizan que todos los
+                componentes físicos funcionen correctamente, mientras que la
+                verificación de <i>software</i> asegura que el sistema operativo
+                y las aplicaciones estén instaladas y configuradas
+                adecuadamente. Los <em>tests</em> de rendimiento evalúan la
+                capacidad del equipo para manejar cargas de trabajo específicas,
+                asegurando que cumpla con las expectativas del usuario.
               </p>
             </div>
           </div>
@@ -430,14 +430,14 @@
         <p class="my-3">
           La configuración final es una etapa primordial que prepara el equipo
           para su uso inmediato por parte del usuario. Este proceso incluye la
-          personalización de usuario, el backup y restauración, y las
+          personalización de usuario, el <em>backup</em> y restauración, y las
           actualizaciones finales. La personalización de usuario asegura que el
           equipo esté configurado según las preferencias y necesidades
-          específicas del usuario. El backup y restauración garantizan que los
-          datos importantes estén protegidos y puedan ser recuperados en caso de
-          fallos. Las actualizaciones finales aseguran que el equipo tenga la
-          última versión de <i>software</i> y parches de seguridad, mejorando su
-          rendimiento y protección.
+          específicas del usuario. El <em>backup</em> y restauración garantizan
+          que los datos importantes estén protegidos y puedan ser recuperados en
+          caso de fallos. Las actualizaciones finales aseguran que el equipo
+          tenga la última versión de <i>software</i> y parches de seguridad,
+          mejorando su rendimiento y protección.
         </p>
       </div>
       <div class="row justify-content-center mb-4">

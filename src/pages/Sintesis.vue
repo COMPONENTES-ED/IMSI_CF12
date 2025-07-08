@@ -15,7 +15,7 @@
             <div class="col-lg-8">
               <p>
                 El siguiente diagrama proporciona una visión general sintetizada
-                de los principales temas abordados en este componente
+                de los principales temas abordados en este componente,
                 permitiendo a los aprendices visualizar las relaciones entre
                 diferentes conceptos, facilitando la comprensión y la retención
                 de la información. Este mapa está diseñado para ayudar al lector
