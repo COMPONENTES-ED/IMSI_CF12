@@ -114,7 +114,7 @@
               <iframe
                 width="560"
                 height="315"
-                src="https://www.youtube.com/embed/TQiFT6h6sf0?si=Gqd5URzStlexgdI-"
+                src="https://www.youtube.com/embed/c6AHmlLXTIQ?si=V3zLZvxJxy1B8q18"
                 title="YouTube video player"
                 frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -123,6 +123,10 @@
               </iframe>
             </div>
           </figure>
+          <figcaption>
+            Video. Configuración y entrega de equipos de cómputo: protocolos y
+            pruebas
+          </figcaption>
         </div>
       </div>
     </div>
