@@ -513,9 +513,10 @@
                 <div class="col-lg-6 my-2">
                   <h5 class="mb-4">Actualización de aplicaciones:</h5>
                   <p>
-                    Asegurarse de que el sistema operativo esté actualizado a su
-                    última versión es para garantizar la seguridad y el
-                    rendimiento del equipo.
+                    Asegurarse de que todas las aplicaciones instaladas estén
+                    actualizadas a sus últimas versiones es adecuado para
+                    garantizar la seguridad y el rendimiento del software. Esto
+                    incluye:
                   </p>
                   <ul class="lista-ul fa-ul ps-4">
                     <li>
@@ -523,16 +524,15 @@
                       ><span
                         ><b>Actualizaciones de seguridad:</b> instalación de
                         actualizaciones de seguridad que corrigen
-                        vulnerabilidades conocidas y protegen el sistema contra
-                        ataques cibernéticos.</span
+                        vulnerabilidades conocidas en las aplicaciones.</span
                       >
                     </li>
                     <li>
                       <i class="fas fa-check-circle color1"></i
                       ><span
                         ><b>Mejoras de rendimiento:</b> instalación de
-                        actualizaciones que incluyen mejoras de rendimiento y
-                        optimizaciones del sistema.</span
+                        actualizaciones que corrigen errores y problemas
+                        conocidos en las aplicaciones.</span
                       >
                     </li>
                     <li>
