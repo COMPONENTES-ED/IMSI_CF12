@@ -440,7 +440,7 @@
                     <li>
                       <i class="fas fa-check-circle color1"></i
                       ><span
-                        ><b>Mejoras de rendimiento:</b> instalación de
+                        ><b>Corrección de errores:</b> instalación de
                         actualizaciones que incluyen mejoras de rendimiento y
                         optimizaciones del sistema.</span
                       >
